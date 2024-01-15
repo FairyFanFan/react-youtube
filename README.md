@@ -1,3 +1,5 @@
+# Brief Introduction
+
 ## Environment
 
 Get a Youtube Data API key
@@ -48,3 +50,9 @@ yarn test
 - [Redux-reselect](https://github.com/reduxjs/reselect)
 - [Redux](https://redux.js.org/)
 - [Jest](https://jestjs.io/)
+
+# For practice
+
+Reference 
+
+- [According to Youtube](https://www.youtube.com/)
